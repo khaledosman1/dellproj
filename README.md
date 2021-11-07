@@ -11,4 +11,4 @@ change in README
 change to appply pull rebase
 
 
-change in remote
+change in local and remote
