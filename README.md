@@ -4,4 +4,6 @@ this is development project
 change from khaledosman0
 
 
-change as collabolator
+change as collabolatori
+
+change in README
